@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "name": "datta",
+      "email": "datta.com",
+      "password": "datta@123",
+      "id": "1"
+    },
+    {
+      "name": "rushi",
+      "email": "rushi.com",
+      "password": "rushi@123",
+      "id": "2"
+    },
+    {
+      "name": "Akash",
+      "email": "Akash.com",
+      "password": "Akash@123",
+      "id": "3"
+    },
+    {
+      "name": "shreyas",
+      "email": "shreyas.com",
+      "password": "shreyas@123",
+      "id": "4"
+    },
+    {
+      "name": "suraj",
+      "email": "suraj.com",
+      "password": "suraj@123",
+      "id": "5"
+    },
+    {
+      "name": "saurabh",
+      "email": "saurabh.123",
+      "password": "saurabh@123",
+      "id": "6"
+    },
+    {
+      "name": "parth",
+      "email": "parth.com",
+      "password": "parth@123",
+      "id": "7"
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "Star Bucks",
+      "address": "Jalgaon",
+      "contact": "6666",
+      "id": 1
+    },
+    {
+      "name": "Pizza Hut",
+      "address": "Pune",
+      "contact": "1111",
+      "id": 2
+    },
+    {
+      "name": "Dominos",
+      "address": "Mumbai",
+      "contact": "2222",
+      "id": 3
+    },
+    {
+      "name": "KFC",
+      "address": "Latur",
+      "contact": "3333",
+      "id": 4
+    },
+    {
+      "name": "Burger King",
+      "address": "Sambhaji Nagar",
+      "contact": "8888",
+      "id": 5
+    }
+  ]
+}
